@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/tera-private-mods/sundress/master/module.json
 http://git.dev.hsdn.org/tera-v92/unicast/raw/master/module.json
 https://raw.githubusercontent.com/hsdn/jaunt/master/module.json
 https://raw.githubusercontent.com/hsdn/looks/master/module.json
-https://raw.githubusercontent.com/tera-private-mods/tcc-toolbox/master/module.json
+https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
 https://raw.githubusercontent.com/hsdn/teleport/master/module.json
 https://raw.githubusercontent.com/hsdn/tera-guide/master/module.json
 https://raw.githubusercontent.com/emilia-s2/Guia-DG-Portugues-Espanol/master/module.json
