@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.j
 https://raw.githubusercontent.com/tera-private-mods/tera-settings-saver/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/sundress/master/module.json
 http://git.dev.hsdn.org/tera-v92/unicast/raw/master/module.json
+http://git.dev.hsdn.org/tera-v92/unicast-100/raw/master/module.json
 https://raw.githubusercontent.com/hsdn/jaunt/master/module.json
 https://raw.githubusercontent.com/hsdn/looks/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
