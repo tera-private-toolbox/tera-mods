@@ -56,3 +56,4 @@ https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode
 https://raw.githubusercontent.com/FrostSigil/Darkhan-Wings/main/module.json
 https://raw.githubusercontent.com/hsdn/mongord/master/module.json
 https://raw.githubusercontent.com/hsdn/tera-settings-fixer/master/module.json
+http://git.dev.hsdn.org/tera/macro-maker/raw/master/module.json
