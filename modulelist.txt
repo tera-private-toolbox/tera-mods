@@ -28,8 +28,8 @@ https://raw.githubusercontent.com/tera-private-mods/instant-revive/master/module
 https://raw.githubusercontent.com/tera-private-mods/JustSpamF/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/monitor-control/master/module.json
 https://raw.githubusercontent.com/hsdn/party-death-markers/master/module.json
-http://git.dev.hsdn.org/tera-v92/ngsp/raw/master/module.json
-http://git.dev.hsdn.org/tera-v92/ngsp-v100/raw/master/module.json
+https://raw.githubusercontent.com/tera-private-mods/ngsp-92/master/module.json
+https://raw.githubusercontent.com/tera-private-mods/ngsp-100/master/module.json
 https://raw.githubusercontent.com/hsdn/npc-summoner/master/module.json
 https://raw.githubusercontent.com/hsdn/rootbeer/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/shinra-toolbox/master/module.json
@@ -38,8 +38,8 @@ https://raw.githubusercontent.com/tera-private-mods/skill-prediction/master/modu
 https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/tera-settings-saver/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/sundress/master/module.json
-http://git.dev.hsdn.org/tera-v92/unicast/raw/master/module.json
-http://git.dev.hsdn.org/tera-v92/unicast-100/raw/master/module.json
+https://raw.githubusercontent.com/tera-private-mods/unicast-92/master/module.json
+https://raw.githubusercontent.com/tera-private-mods/unicast-100/master/module.json
 https://raw.githubusercontent.com/hsdn/jaunt/master/module.json
 https://raw.githubusercontent.com/hsdn/looks/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
