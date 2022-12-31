@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/tera-toolbox-mods/camera-control/master/module
 https://raw.githubusercontent.com/tera-private-mods/cmd-channel/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/Endless-Crafting/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/essentials/master/module.json
+https://raw.githubusercontent.com/tera-private-mods/true-everful-nostrum-menma/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/exit-instantly/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/Yet-Another-Relog-Mod/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/fps-manager/master/module.json
