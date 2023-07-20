@@ -60,4 +60,4 @@ https://raw.githubusercontent.com/hsdn/mongord/master/module.json
 https://raw.githubusercontent.com/hsdn/tera-settings-fixer/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/Baldera-Reborn/main/module.json
 https://raw.githubusercontent.com/FrostSigil/menma-highwatch-portal-remover/main/module.json
-https://git.teramods.ml/tera/macro-maker/raw/master/module.json
+https://git.teragame.su/tera/macro-maker/raw/master/module.json
