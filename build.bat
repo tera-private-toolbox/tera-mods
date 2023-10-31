@@ -1,4 +1,4 @@
 @echo off
 cd .
-py build.py
+python build.py
 pause
