@@ -63,3 +63,4 @@ https://raw.githubusercontent.com/tera-private-mods/Baldera-Reborn/main/module.j
 https://raw.githubusercontent.com/FrostSigil/menma-highwatch-portal-remover/main/module.json
 https://raw.githubusercontent.com/hsdn/auto-stun/master/module.json
 https://raw.githubusercontent.com/hsdn/macro-maker/master/module.json
+https://raw.githubusercontent.com/FrostSigil/auto-beer/main/module.json
