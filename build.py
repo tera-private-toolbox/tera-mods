@@ -24,9 +24,10 @@ result = []
 names = set()
 for url in lines:
   try:
-    myreq = urllib.request.urlopen(url)
-    mydata = myreq.read()
-    
+    req = urllib.request.Request(url)
+    req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36')
+    mydata = urllib.request.urlopen(req).read()
+
     module = json.loads(mydata.decode('utf-8'))
     if 'name' not in module:
         print('No name specified:', url)
@@ -52,9 +53,10 @@ for url in lines:
             if 'keywords' not in module:
                 module['keywords'] = ['network']
 
+        print('Add:', url)
         result.append(module)
-  except:
-    print(url)
+  except Exception as e:
+    print(url, e)
 
 # Sort by name
 def guiname(x):
