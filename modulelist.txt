@@ -65,3 +65,4 @@ https://raw.githubusercontent.com/hsdn/auto-stun/master/module.json
 https://raw.githubusercontent.com/hsdn/macro-maker/master/module.json
 https://raw.githubusercontent.com/FrostSigil/auto-beer/main/module.json
 https://raw.githubusercontent.com/FrostSigil/collect-event/main/module.json
+https://downloads.mtdream.net/tera-toolbox/mods/ngsp/module.json
