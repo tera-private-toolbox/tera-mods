@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/tera-private-mods/ngsp-92/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/ngsp-100/master/module.json
 https://raw.githubusercontent.com/hsdn/npc-summoner/master/module.json
 https://raw.githubusercontent.com/hsdn/rootbeer/master/module.json
-https://raw.githubusercontent.com/tera-private-mods/shinra-toolbox/master/module.json
+https://raw.githubusercontent.com/foglio1024/shinra-toolbox-release/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/Salt-remover/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/skill-prediction/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.json
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/tera-private-mods/sundress/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/unicast/master/module.json
 https://raw.githubusercontent.com/hsdn/jaunt/master/module.json
 https://raw.githubusercontent.com/hsdn/looks/master/module.json
-https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
+https://raw.githubusercontent.com/foglio1024/tcc-toolbox-release/master/module.json
 https://raw.githubusercontent.com/hsdn/teleport/master/module.json
 https://raw.githubusercontent.com/hsdn/tera-guide/master/module.json
 https://raw.githubusercontent.com/emilia-s2/Guia-DG-Portugues-Espanol/master/module.json
