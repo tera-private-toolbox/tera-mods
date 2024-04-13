@@ -47,7 +47,6 @@ https://raw.githubusercontent.com/hsdn/looks/master/module.json
 https://raw.githubusercontent.com/foglio1024/tcc-toolbox-release/master/module.json
 https://raw.githubusercontent.com/hsdn/teleport/master/module.json
 https://raw.githubusercontent.com/hsdn/tera-guide/master/module.json
-https://raw.githubusercontent.com/emilia-s2/Guia-DG-Portugues-Espanol/master/module.json
 https://raw.githubusercontent.com/Loliconera/tera-guide-spanish/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/tera-swear-words/master/module.json
 https://raw.githubusercontent.com/hsdn/translate-chat/master/module.json
@@ -56,11 +55,9 @@ https://raw.githubusercontent.com/hsdn/gathering-markers/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/generic-box-opener-item-user/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/master/module.json
 https://raw.githubusercontent.com/FrostSigil/Darkhan-Wings/main/module.json
-https://raw.githubusercontent.com/hsdn/mongord/master/module.json
 https://raw.githubusercontent.com/FrostSigil/teralogs/main/module.json
 https://raw.githubusercontent.com/hsdn/tera-settings-fixer/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/Baldera-Reborn/main/module.json
-https://raw.githubusercontent.com/FrostSigil/menma-highwatch-portal-remover/main/module.json
 https://raw.githubusercontent.com/hsdn/auto-stun/master/module.json
 https://raw.githubusercontent.com/hsdn/macro-maker/master/module.json
 https://raw.githubusercontent.com/FrostSigil/auto-beer/main/module.json
