@@ -71,3 +71,4 @@ https://raw.githubusercontent.com/shuckoru/tera-pve-mod/master/module.json
 https://raw.githubusercontent.com/Enndy1005/tera-pinger-module/master/module.json
 https://git.teragame.su/tera/ping-remover-agaia/raw/master/module.json
 https://git.teragame.su/tera/ping-remover-legacy/raw/master/module.json
+https://raw.githubusercontent.com/yngirz/Auto-Nostum-Agaia/main/module.json
