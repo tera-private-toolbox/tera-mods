@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/emilia-s2/Guia-DG-Portugues-Espanol/master/mod
 https://raw.githubusercontent.com/Loliconera/tera-guide-spanish/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/tera-swear-words/master/module.json
 https://raw.githubusercontent.com/hsdn/translate-chat/master/module.json
-https://raw.githubusercontent.com/tera-toolbox-mods/true-everful-nostrum/master/module.json
 https://raw.githubusercontent.com/hsdn/gathering-markers/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/generic-box-opener-item-user/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/master/module.json
@@ -71,4 +70,3 @@ https://raw.githubusercontent.com/shuckoru/tera-pve-mod/master/module.json
 https://raw.githubusercontent.com/Enndy1005/tera-pinger-module/master/module.json
 https://git.teragame.su/tera/ping-remover-agaia/raw/master/module.json
 https://git.teragame.su/tera/ping-remover-legacy/raw/master/module.json
-https://raw.githubusercontent.com/yngirz/Auto-Nostum-Agaia/main/module.json
