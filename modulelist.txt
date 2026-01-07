@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/tera-private-mods/ngsp-100/master/module.json
 https://raw.githubusercontent.com/hsdn/npc-summoner/master/module.json
 https://raw.githubusercontent.com/hsdn/rootbeer/master/module.json
 https://raw.githubusercontent.com/foglio1024/shinra-toolbox-release/master/module.json
+https://raw.githubusercontent.com/myaak/shinra-meter-asura/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/Salt-remover/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/skill-prediction/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.json
