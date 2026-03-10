@@ -1,7 +1,6 @@
 https://raw.githubusercontent.com/tera-private-mods/AFKer/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/anti-bodyblock/master/module.json
 https://raw.githubusercontent.com/Memenymous/achievement-tracker/main/module.json
-https://raw.githubusercontent.com/hsdn/anti-cc/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/auto-cutscene/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/auto-bank/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/auto-banker/master/module.json
@@ -26,7 +25,6 @@ https://raw.githubusercontent.com/tera-private-mods/fps-manager/master/module.js
 https://raw.githubusercontent.com/tera-private-mods/fps-utils/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/free-flight-exodor/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/instant-everything/master/module.json
-https://raw.githubusercontent.com/tera-private-mods/instant-revive/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/JustSpamF/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/monitor-control/master/module.json
 https://raw.githubusercontent.com/hsdn/party-death-markers/master/module.json
