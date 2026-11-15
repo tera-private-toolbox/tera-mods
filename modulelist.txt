@@ -70,3 +70,4 @@ https://raw.githubusercontent.com/Enndy1005/tera-pinger-module/master/module.jso
 https://git.teragame.su/tera/ping-remover-agaia/raw/master/module.json
 https://git.teragame.su/tera/ping-remover-asura/raw/master/module.json
 https://git.teragame.su/tera/ping-remover-legacy/raw/master/module.json
+https://static.teragame.su/mods/skill-emulator/module.json
